@@ -1,4 +1,3 @@
 from main import finddayofweek
-
-def testfinddayofweek():
+def test_finddayofweek():
   assert True
