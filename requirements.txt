@@ -1,4 +1,4 @@
-python 3.9.7 (x64)
+python
 pylint
 pytest
 fastapi
