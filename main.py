@@ -12,9 +12,9 @@ async def root():
 
 @app.get("/finddayofweek/{date}")
 async def finddayofweek(date):
- 
-
-def findDay(date):
+    '''Function that returns day of week of any date in the past 
+    or the future'''
+    
     born = datetime.datetime.strptime(date, '%d %m %Y').weekday()
     return (calendar.day_name[born])
 
