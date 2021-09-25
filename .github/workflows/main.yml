@@ -1,8 +1,5 @@
-name: Continuous Integration/ Continuous Deployment Pipeline
-on: 
-  push:
-    branches: [ main ]
-    
+name: Python 3.8
+on: [push]    
 jobs:
   build:
     runs-on: ubuntu-latest
