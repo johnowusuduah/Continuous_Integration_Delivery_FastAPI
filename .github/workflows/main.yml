@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: Continuous Integration / Continuous Pipeline
 
 on:
   push:
@@ -45,15 +45,4 @@ jobs:
       - name: Build and Run Test
         run: . venv/bin/activate && pytest
 
-      - name: Create Zipfile archive of Dependencies
-        run: |
-          cd ./venv/lib/python3.7/site-packages
-          zip -r9 ../../../../api.zip .
-      - name: Add App to Zipfile
-        run: cd ./app && zip -g ../api.zip -r .
 
-      - name: Upload zip file artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: api
-          path: api.zip
