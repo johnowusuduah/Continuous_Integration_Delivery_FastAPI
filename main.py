@@ -8,7 +8,7 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message": "Welcome, this function finds the the day of the week of any date in the format - DD MM YYYY"}
+    return {"message": "Welcome, this API finds the the day of the week of any date in the format - DD MM YYYY"}
 
 @app.get("/finddayofweek/{date}")
 async def finddayofweek(date):
