@@ -16,7 +16,8 @@ async def finddayofweek(date):
     or the future'''
     
     born = datetime.datetime.strptime(date, '%d %m %Y').weekday()
-    return (calendar.day_name[born])
+    day = calendar.day_name[born]
+    return {date:day}
 
   
 if __name__ == '__main__':
