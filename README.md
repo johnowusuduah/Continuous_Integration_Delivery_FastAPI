@@ -4,4 +4,10 @@ In most tribes of Sub-saharan Africa, there is a lot of cultural significance gi
 
 This is a microservice that finds what the day of the week of a date in the past or the future was or will be, respectively.
 
-It was fun using AWS App Runner
+## Demonstration Video
+A succinct demonstration video can be found here
+
+## Microservice URL
+The url for the Fast API microservice is stated below:
+
+https://d5fpjfe2iv.us-east-2.awsapprunner.com 
