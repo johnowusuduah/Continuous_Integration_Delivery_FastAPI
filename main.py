@@ -2,7 +2,6 @@ from fastapi import FastAPI
 import uvicorn
 import datetime
 import calendar
-import string
 
 app = FastAPI()
 
