@@ -5,7 +5,7 @@ In most tribes of Sub-saharan Africa, there is a lot of cultural significance gi
 This is a microservice that finds what the day of the week of a date in the past or the future was or will be, respectively.
 
 ## Demonstration Video
-A succinct demonstration video can be found [here]()
+A succinct demonstration video can be found [here](https://www.youtube.com/watch?v=YgYAXvMSty8)
 
 ## Instructions on How to Use Microservice
 At the end of the microservice url in the browser, append "/finddayofweek/*date*. Ensure that *date* is in the format DD MM YYYY.
