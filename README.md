@@ -26,3 +26,5 @@ https://d5fpjfe2iv.us-east-2.awsapprunner.com/finddayofweek/01%2010%202021 - % r
 The url for the Fast API microservice is stated below:
 
 https://d5fpjfe2iv.us-east-2.awsapprunner.com 
+
+Thank you very much
