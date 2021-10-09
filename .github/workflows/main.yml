@@ -39,7 +39,11 @@ jobs:
       # Install all the app dependencies
       - name: Install dependencies
         run: pip3 install -r requirements.txt
-
+        
+      # Lint python script
+      - name: Lint with pylint
+        run: |
+          make lint
 
       # Build the app and run tests
       - name: Build and Run Test
