@@ -14,13 +14,13 @@ For example:
 
 > 1.0 Say we want to find the day of week that the October 1, 2021 falls on, we first express the date in DD MM YYYY format. That is, **01 10 2021**.
 
-> 2.0 In the url of the microservice: https://d5fpjfe2iv.us-east-2.awsapprunner.com/, append the name of the function ie. finddayofweek as below:
+> 2.0 In the url of the microservice: https://2gwuc6mc76.us-east-2.awsapprunner.com/, append the name of the function ie. finddayofweek as below:
 
->https://d5fpjfe2iv.us-east-2.awsapprunner.com/finddayofweek/
+>https://2gwuc6mc76.us-east-2.awsapprunner.com/finddayofweek/
 
 3.0 Finally, append the the date in the format DD MM YYYY. Finally, we end up with:
 
-https://d5fpjfe2iv.us-east-2.awsapprunner.com/finddayofweek/01%2010%202021 - % represents space.
+https://2gwuc6mc76.us-east-2.awsapprunner.com/finddayofweek/01%2010%202021 - % represents space.
 
 ## Microservice URL
 The url for the Fast API microservice is stated below:
