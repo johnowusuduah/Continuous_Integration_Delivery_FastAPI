@@ -10,5 +10,6 @@ import json
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
+        self.stack = []
 
 
