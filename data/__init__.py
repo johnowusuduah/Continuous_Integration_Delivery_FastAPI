@@ -12,4 +12,7 @@ class Models():
         self.from, self.market = None, None
         self.stack = []
 
+    def order(self, do):
+        self.from = 2
+
 
