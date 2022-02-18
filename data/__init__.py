@@ -14,5 +14,6 @@ class Models():
 
     def order(self, do):
         self.from = 2 + 4
+        self.stack.append(self.from)
 
 
