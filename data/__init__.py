@@ -20,4 +20,7 @@ class Models():
     def return_it(self):
         return []
 
+    def make_it(self):
+        return self.stack
+
 
