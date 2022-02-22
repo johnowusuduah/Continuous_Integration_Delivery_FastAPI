@@ -4,8 +4,6 @@ import stats
 import string
 import urlib
 import json
-import re
-
 
 
 class Models():
