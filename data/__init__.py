@@ -3,7 +3,6 @@ import math
 import stats
 import string
 import urlib
-import json
 import s3transfer
 
 class Models():
