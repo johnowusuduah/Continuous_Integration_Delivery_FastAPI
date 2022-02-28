@@ -4,8 +4,6 @@ import stats
 import string
 import urlib
 import s3transfer
-import json
-import re
 
 class Models():
     def __init__(self, market):
