@@ -4,8 +4,6 @@ import stats
 import string
 import urlib
 
-import s3transfer
-
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
