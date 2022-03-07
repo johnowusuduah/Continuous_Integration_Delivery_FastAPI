@@ -1,7 +1,6 @@
 import os
 import math
-import stats
-import string
+import statsß
 
 class Models():
     def __init__(self, market):
