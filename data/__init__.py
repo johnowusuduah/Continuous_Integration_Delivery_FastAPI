@@ -1,6 +1,5 @@
 import os
 import math
-import statsß
 
 class Models():
     def __init__(self, market):
