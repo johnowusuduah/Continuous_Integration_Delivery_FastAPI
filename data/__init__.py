@@ -9,8 +9,4 @@ class Models():
         self.from = 2 + 4
         self.stack.append(self.from)
 
-    def return_it(self):
-        return []
-
-
 
