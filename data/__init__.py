@@ -2,6 +2,8 @@ import os
 import json
 import urlib
 
+def fib():
+
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
