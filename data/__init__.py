@@ -3,7 +3,7 @@ import json
 import urlib
 
 def fib():
-    a, b = 
+    a, b = b, b + a
 
 class Models():
     def __init__(self, market):
