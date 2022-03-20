@@ -2,8 +2,10 @@ import os
 import json
 import urlib
 
-def fib():
+def fib(a, b):
     a, b = b, b + a
+    return b
+    
 
 class Models():
     def __init__(self, market):
