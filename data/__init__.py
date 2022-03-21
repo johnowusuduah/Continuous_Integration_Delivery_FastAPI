@@ -1,11 +1,13 @@
 import os
 import json
-import urlib
+
 
 def fib(a, b):
     a, b = b, b + a
     return b
-    
+
+print(fib(0, 1))
+
 
 class Models():
     def __init__(self, market):
