@@ -1,10 +1,11 @@
 import os
 import json
+import math
 
 
 def fib(a, b):
     a, b = b, b + a
-    return b
+    return a, b
 
 print(fib(0, 1))
 
