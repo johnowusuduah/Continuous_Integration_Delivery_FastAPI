@@ -1,6 +1,5 @@
 import os
 import json
-import math
 
 def fib(a, b):
     a, b = b, b + a
