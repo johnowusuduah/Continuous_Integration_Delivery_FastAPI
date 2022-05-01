@@ -4,4 +4,4 @@ import math
 
 class ToDo():
     def __init__(self):
-        pass
+        self.from = None
