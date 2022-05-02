@@ -6,3 +6,6 @@ class ToDo():
     def __init__(self):
         self.from = None
         self.to = None
+
+    def action(self, who):
+        return 2+self.from
