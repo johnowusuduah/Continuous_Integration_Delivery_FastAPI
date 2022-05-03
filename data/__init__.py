@@ -8,4 +8,4 @@ class ToDo():
         self.to = None
 
     def action(self, who):
-        return 2+self.from
+       
