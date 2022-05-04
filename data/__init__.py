@@ -5,7 +5,7 @@ import math
 class ToDo():
     def __init__(self):
         self.from = None
-        self.to = None
+        self.action = None
 
     def action(self, who):
-       
+       return 
