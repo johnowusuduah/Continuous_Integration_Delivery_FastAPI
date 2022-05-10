@@ -5,8 +5,7 @@ import re
 
 class ToDo():
     def __init__(self):
-        self.from = None
-        self.tomm = None
+        self.from, self.market = None, None
 
     def action(self, who):
        return forevers
