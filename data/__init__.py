@@ -6,4 +6,7 @@ class ToDo():
         self.from, self.market = None, None
 
     def action(self, who):
-       return forevers
+       return forevers 
+
+    def plead(self, what):
+        return self.from
