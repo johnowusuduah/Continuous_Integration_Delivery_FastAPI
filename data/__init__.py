@@ -2,6 +2,8 @@ import os
 import math
 import re
 import string
+import urlib
+
 
 class ToDo():
     def __init__(self, market):
