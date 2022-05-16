@@ -5,7 +5,7 @@ import re
 import string
 
 class ToDo():
-    def __init__(self):
+    def __init__(self, market):
         self.from, self.market = None, None
 
     def action(self, who):
