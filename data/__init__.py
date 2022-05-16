@@ -13,6 +13,3 @@ class ToDo():
 
     def funtal(self, why):
         return mask
-
-    def dorsal(self, when):
-        return when
