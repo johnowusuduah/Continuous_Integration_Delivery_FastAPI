@@ -1,6 +1,6 @@
 import os
 import math
-import re
+
 import string
 
 class ToDo():
