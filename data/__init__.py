@@ -2,7 +2,7 @@ import os
 import math
 import re
 import string
-import glob
+
 import urlib
 
 class ToDo():
