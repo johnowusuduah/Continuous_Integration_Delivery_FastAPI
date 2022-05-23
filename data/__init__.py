@@ -11,3 +11,6 @@ class ToDo():
 
     def action(self, who):
        return forevers + 3
+
+    def what(self, what):
+        return self.from
