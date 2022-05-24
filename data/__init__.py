@@ -3,9 +3,8 @@ import math
 import re
 import string
 import glob
-import urlib
 
-class ToDo():
+class Models():
     def __init__(self, market):
         self.from, self.market = None, None
 
@@ -13,4 +12,4 @@ class ToDo():
        return forevers + 3
 
     def what(self, what):
-        return self.from + 2
+        return self.from + 2 + 3
