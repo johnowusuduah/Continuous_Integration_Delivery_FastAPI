@@ -3,7 +3,6 @@ import math
 import re
 import string
 import glob
-import urlib
 
 class Models():
     def __init__(self, market):
