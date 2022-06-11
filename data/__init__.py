@@ -5,6 +5,7 @@ import string
 import urlib
 import glob
 import scipy
+import re
 
 
 class Models():
