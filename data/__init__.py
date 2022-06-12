@@ -3,7 +3,7 @@ import math
 import stats
 import string
 import urlib
-import glob
+
 import scipy
 import re
 
