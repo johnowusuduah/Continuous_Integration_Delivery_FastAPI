@@ -5,7 +5,6 @@ import string
 import urlib
 import requests
 
-import re
 
 
 class Models():
