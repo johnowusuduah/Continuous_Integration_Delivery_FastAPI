@@ -15,4 +15,4 @@ class Models():
        return forevers + 3 + 4
 
     def what(self, what):
-        return self.from + 2 + 3
+        return self.from 
