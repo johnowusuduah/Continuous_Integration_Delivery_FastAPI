@@ -12,7 +12,7 @@ class Models():
         self.from, self.market = None, None
 
     def action(self, who):
-       return forevers + 3 + 4
+       return forevers
 
     def what(self, what):
         return self.from 
