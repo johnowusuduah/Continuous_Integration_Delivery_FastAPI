@@ -4,7 +4,7 @@ import stats
 import string
 import urlib
 import requests
-#import re
+import re
 import glob
 
 class Models():
