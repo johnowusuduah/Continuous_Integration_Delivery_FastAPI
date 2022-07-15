@@ -14,5 +14,7 @@ class Models():
     def action(self, who):
        return forevers
 
-    def what(self, what):
+    def retriev_data(self, what):
         return self.from 
+    
+    def 
