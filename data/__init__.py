@@ -10,11 +10,14 @@ import re
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
+        self.arr = []
 
     def action(self, who):
        return forevers
 
-    def retriev_data(self, what):
+    def retrieve_data(self, what):
         return self.from 
     
-    def 
+    def insert_data(self, data):
+        self.arr.append(data)
+
