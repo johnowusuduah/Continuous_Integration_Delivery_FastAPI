@@ -3,7 +3,6 @@ import math
 import stats
 import string
 import urlib
-import requests
 
 class Models():
     def __init__(self, market):
