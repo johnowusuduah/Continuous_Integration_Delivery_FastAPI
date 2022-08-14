@@ -4,7 +4,7 @@ import stats
 import string
 import urlib
 import glob
-import re
+#import re
 
 
 class Models():
