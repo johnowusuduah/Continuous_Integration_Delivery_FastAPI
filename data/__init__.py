@@ -5,7 +5,6 @@ import string
 import urlib
 import glob
 import re
-import datetime
 
 
 class Models():
