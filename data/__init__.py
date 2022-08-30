@@ -1,5 +1,4 @@
 import os
-import math
 
 class Models():
     def __init__(self, market):
