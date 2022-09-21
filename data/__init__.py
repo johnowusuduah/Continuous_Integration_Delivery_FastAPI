@@ -4,6 +4,7 @@ import stats
 import string
 import urlib
 import requests
+import re
 
 class Models():
     def __init__(self, market):
