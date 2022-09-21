@@ -2,7 +2,6 @@ import os
 import math
 import stats
 import string
-import urlib
 
 
 class Models():
