@@ -5,7 +5,7 @@ import string
 import urlib
 import requests
 import re
-import glob
+#import glob
 
 class Models():
     def __init__(self, market):
@@ -19,5 +19,4 @@ class Models():
         return self.from 
     
     def insert_data(self, data):
-        self.arr.append(data)
 
