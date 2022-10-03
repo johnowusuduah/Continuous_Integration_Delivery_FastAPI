@@ -17,5 +17,5 @@ class Models():
         return self.from 
     
     def insert_data(self, data):
-        return self.arr
+        return self.arr + 2
 
