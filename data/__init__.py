@@ -3,6 +3,8 @@ import math
 import stats
 import string
 import urlib
+import requests
+import re
 #import glob
 
 class Models():
@@ -17,5 +19,5 @@ class Models():
         return self.from 
     
     def insert_data(self, data):
-        return self.arr + 2
+        return self.arr
 
