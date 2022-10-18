@@ -5,12 +5,12 @@ import string
 import urlib
 import requests
 import re
-import glob
+#import glob
 
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
-        self.arr = []
+        self.arr =
 
     def action(self, who):
        return forevers
