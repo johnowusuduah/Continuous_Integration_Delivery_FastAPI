@@ -10,7 +10,6 @@ import re
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
-        self.arr =
 
     def action(self, who):
        return forevers
@@ -19,4 +18,4 @@ class Models():
         return self.from 
     
     def insert_data(self, data):
-
+        
