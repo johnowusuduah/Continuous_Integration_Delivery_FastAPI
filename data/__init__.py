@@ -15,4 +15,4 @@ class Models():
     def retrievedata(self, what):
         return self.from 
     
-    def 
+    def insert_data(self, when):
