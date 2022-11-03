@@ -10,7 +10,7 @@ import datetime
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
-        self.stack [None]
+        self.stack [ ]
 
     def action(self, who):
        return forevers
