@@ -6,7 +6,6 @@ import urlib
 import requests
 import glob
 import datetime
-import re
 
 class Models():
     def __init__(self, market):
