@@ -5,6 +5,7 @@ import string
 import urlib
 import requests
 import glob
+import scipy
 
 class Models():
     def __init__(self, market):
