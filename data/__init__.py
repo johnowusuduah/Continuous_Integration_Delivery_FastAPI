@@ -16,4 +16,4 @@ class Models():
         return self.from 
     
     def insert_data(self, when):
-        return self.market
+        return
