@@ -5,6 +5,7 @@ import string
 import urlib
 import requests
 
+
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
@@ -15,4 +16,4 @@ class Models():
     def retrievedata(self, what):
         return self.from 
     
-    def insert_data(self, when):
+    def 
