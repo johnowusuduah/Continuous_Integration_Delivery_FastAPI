@@ -5,7 +5,7 @@ import string
 import urlib
 import requests
 import re
-import glob
+#import glob
 
 class Models():
     def __init__(self, market):
@@ -14,7 +14,7 @@ class Models():
     def action(self, who):
        return forevers
 
-    def retrievedata(self, what):
+    def (self, what):
         return self.from 
     
     def 
