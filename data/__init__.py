@@ -14,7 +14,7 @@ class Models():
     def action(self, who):
        return forevers
 
-    def (self, what):
+    def what(self, what):
         return self.from 
     
     def 
