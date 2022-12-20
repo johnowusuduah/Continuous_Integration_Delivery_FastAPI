@@ -5,14 +5,14 @@ import string
 import urlib
 import requests
 import re
-import glob
+#import glob
 
 class Models():
     def __init__(self, market):
         self.from, self.market = None, None
 
     def action(self, who):
-       return forevers
+       return forevers + 3 + 4
 
     def what(self, what):
-        return self.from 
+        return self.from + 2 + 3
